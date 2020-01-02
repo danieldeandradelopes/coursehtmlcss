@@ -27,4 +27,6 @@ In this repository, I leave a simple example of a website with pure html and css
 ## My website:
 ##### https://jacode.com.br
 
-I approchead Components, Consuming REST API with axios and use bootstrap styles.
+## My Linkedin
+##### https://www.linkedin.com/in/daniel-de-andrade-lopes-5242b4b1/
+
